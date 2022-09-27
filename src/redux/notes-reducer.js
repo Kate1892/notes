@@ -1,8 +1,4 @@
 import { Status } from './types'
-export const SET_NOTE = 'SET_NOTE'
-export const ChangeIsFAv = 'ChangeIsFAv'
-export const SetCur = 'SetCur'
-
 export const ADD_NOTE = 'ADD_NOTE'
 export const UPDATE_NOTE = 'UPDATE_NOTE'
 export const DELETE_NOTE = 'DELETE_NOTE'
